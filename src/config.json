@@ -1,0 +1,25 @@
+{
+	"worldStr": "100|Snowy Island|127.0.0.1|6113",
+
+	"debug": false,
+
+	"client": "mysql2",
+	"host": "sql10.freesqldatabase.com",
+	"user": "sql10323030",
+	"pass": "49WwmNqBZ5",
+	"database": "sql10323030",
+
+	"Plugins": [{
+		"name": "Bot",
+		"enabled": true
+	}, {
+		"name": "Commands",
+		"enabled": true
+	}, {
+		"name": "Censor",
+		"enabled": true
+	}, {
+		"name": "PatchedItems",
+		"enabled": true
+	}]
+}

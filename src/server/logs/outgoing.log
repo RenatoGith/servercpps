@@ -1,0 +1,370 @@
+{16:14:5 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:14:5 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:14:5 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>fbfdf769558e</k></body></msg>
+{16:14:6 pm} - [OUTGOING] > %xt%sd%-1%100|Blizzard|127.0.0.1|6113%
+{16:14:6 pm} - [OUTGOING] > %xt%l%-1%%eb1e22a4d9ae%%100,1%
+{16:16:8 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:16:9 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:16:9 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>820af64de696</k></body></msg>
+{16:16:9 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{16:16:9 pm} - [OUTGOING] > %xt%l%-1%%e7a007102a13%%100,1%
+{16:21:13 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:21:13 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:21:13 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>5bd5e6367c1a</k></body></msg>
+{16:21:14 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{16:21:14 pm} - [OUTGOING] > %xt%l%-1%%a95e0bb4cdd7%%100,1%
+{16:21:35 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:21:35 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:21:35 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>a88221ff99d0</k></body></msg>
+{16:21:35 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{16:21:35 pm} - [OUTGOING] > %xt%l%-1%%2f905927c421%%100,1%
+{16:21:57 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:21:57 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:21:57 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>205366b29c15</k></body></msg>
+{16:21:57 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{16:21:57 pm} - [OUTGOING] > %xt%l%-1%%9e2602dc87ba%%100,1%
+{16:25:17 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{16:25:17 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:25:17 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>8b55db601824</k></body></msg>
+{16:25:17 pm} - [OUTGOING] > %xt%l%-1%%90602f5f47d8%%100,1%
+{16:25:17 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{16:25:22 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{16:25:22 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>8db1d6046b1e</k></body></msg>
+{16:25:23 pm} - [OUTGOING] > %xt%l%-1%
+{16:25:23 pm} - [OUTGOING] > %xt%js%-1%1%0%0%1%
+{16:25:23 pm} - [OUTGOING] > %xt%lp%-1%102|teste|45|6|0|0|0|0|0|0|0|0|0|0|1|1|0%500%0%1440%1581870323%0%4%1%
+{16:25:23 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|358|354|1|1|0%
+{16:25:23 pm} - [OUTGOING] > %xt%jr%-1%400%102|teste|45|6|0|0|0|0|0|0|0|0|358|354|1|1|0%
+{16:25:23 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:25:23 pm} - [OUTGOING] > %xt%gps%-1%102%%
+{16:25:23 pm} - [OUTGOING] > %xt%gb%-1%%
+{16:25:23 pm} - [OUTGOING] > %xt%qpa%-1%%
+{16:25:25 pm} - [OUTGOING] > %xt%sp%-1%102%381%221%
+{16:25:27 pm} - [OUTGOING] > %xt%sp%-1%102%240%200%
+{16:25:28 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|320|310|1|1|0%
+{16:25:28 pm} - [OUTGOING] > %xt%jr%-1%410%102|teste|45|6|0|0|0|0|0|0|0|0|320|310|1|1|0%
+{16:25:29 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:25:34 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|159|298|1|1|0%
+{16:25:34 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|159|298|1|1|0%
+{16:25:34 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:25:35 pm} - [OUTGOING] > %xt%sp%-1%102%275%225%
+{16:25:36 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{16:25:36 pm} - [OUTGOING] > %xt%jr%-1%110%102|teste|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{16:25:36 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:25:38 pm} - [OUTGOING] > %xt%sp%-1%102%222%334%
+{16:25:40 pm} - [OUTGOING] > %xt%se%-1%102%1%
+{16:25:41 pm} - [OUTGOING] > %xt%sp%-1%102%129%221%
+{16:25:43 pm} - [OUTGOING] > %xt%sp%-1%102%138%213%
+{16:25:43 pm} - [OUTGOING] > %xt%sp%-1%102%350%324%
+{16:25:44 pm} - [OUTGOING] > %xt%sp%-1%102%520%320%
+{16:25:50 pm} - [OUTGOING] > %xt%sp%-1%102%474%369%
+{16:25:51 pm} - [OUTGOING] > %xt%sp%-1%102%520%320%
+{16:25:54 pm} - [OUTGOING] > %xt%jr%-1%200%102|teste|45|6|0|0|0|0|0|0|0|0|356|396|1|1|0%
+{16:25:54 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:25:54 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|356|396|1|1|0%
+{16:25:56 pm} - [OUTGOING] > %xt%sp%-1%102%670%240%
+{16:25:56 pm} - [OUTGOING] > %xt%sp%-1%102%670%240%
+{16:25:59 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|500|280|1|1|0%
+{16:25:59 pm} - [OUTGOING] > %xt%jr%-1%210%102|teste|45|6|0|0|0|0|0|0|0|0|500|280|1|1|0%
+{16:25:59 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:26:1 pm} - [OUTGOING] > %xt%sp%-1%102%230%270%
+{16:26:23 pm} - [OUTGOING] > %xt%h%-1%
+{16:27:18 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|379|379|1|1|0%
+{16:27:18 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|379|379|1|1|0%
+{16:27:18 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:23 pm} - [OUTGOING] > %xt%h%-1%
+{16:27:27 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|316|109|1|1|0%
+{16:27:27 pm} - [OUTGOING] > %xt%jr%-1%321%102|teste|45|6|0|0|0|0|0|0|0|0|316|109|1|1|0%
+{16:27:27 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:31 pm} - [OUTGOING] > %xt%sp%-1%102%390%300%
+{16:27:31 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|200|330|1|1|0%
+{16:27:31 pm} - [OUTGOING] > %xt%jr%-1%320%102|teste|45|6|0|0|0|0|0|0|0|0|200|330|1|1|0%
+{16:27:31 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:40 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|114|220|1|1|0%
+{16:27:40 pm} - [OUTGOING] > %xt%jr%-1%805%102|teste|45|6|0|0|0|0|0|0|0|0|114|220|1|1|0%
+{16:27:40 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:42 pm} - [OUTGOING] > %xt%sp%-1%102%635%160%
+{16:27:48 pm} - [OUTGOING] > %xt%sp%-1%102%334%208%
+{16:27:53 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|145|357|1|1|0%
+{16:27:53 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|145|357|1|1|0%
+{16:27:53 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:54 pm} - [OUTGOING] > %xt%sp%-1%102%342%205%
+{16:27:57 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{16:27:57 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:27:57 pm} - [OUTGOING] > %xt%jr%-1%120%102|teste|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{16:28:1 pm} - [OUTGOING] > %xt%sp%-1%102%260%150%
+{16:28:1 pm} - [OUTGOING] > %xt%sp%-1%102%260%150%
+{16:28:6 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|322|122|1|1|0%
+{16:28:7 pm} - [OUTGOING] > %xt%jr%-1%800%102|teste|45|6|0|0|0|0|0|0|0|0|322|122|1|1|0%
+{16:28:7 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:28:8 pm} - [OUTGOING] > %xt%sp%-1%102%118%324%
+{16:28:23 pm} - [OUTGOING] > %xt%h%-1%
+{16:29:23 pm} - [OUTGOING] > %xt%h%-1%
+{16:30:23 pm} - [OUTGOING] > %xt%h%-1%
+{16:30:24 pm} - [OUTGOING] > %xt%gr%-1%
+{16:30:29 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|318|262|1|1|0%
+{16:30:29 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|318|262|1|1|0%
+{16:30:29 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:30:31 pm} - [OUTGOING] > %xt%sp%-1%102%275%225%
+{16:30:32 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{16:30:32 pm} - [OUTGOING] > %xt%jr%-1%110%102|teste|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{16:30:32 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{16:30:34 pm} - [OUTGOING] > %xt%sp%-1%102%520%320%
+{16:30:51 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|302|320|1|1|0%
+{16:30:51 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|302|320|1|1|0%
+{16:30:51 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{17:16:7 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{17:16:7 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{17:16:7 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>527f37ccea88</k></body></msg>
+{17:16:8 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{17:16:8 pm} - [OUTGOING] > %xt%l%-1%%120bedd32981%%100,1%
+{17:17:53 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{17:17:53 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{17:17:53 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>be3556573765</k></body></msg>
+{17:17:53 pm} - [OUTGOING] > %xt%e%-1%101%
+{17:17:59 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{17:17:59 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>517a8ba6a28d</k></body></msg>
+{17:17:59 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{17:17:59 pm} - [OUTGOING] > %xt%l%-1%%2d354cf32ebb%%100,1%
+{17:18:1 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{17:18:1 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>33a2545d3c77</k></body></msg>
+{17:18:2 pm} - [OUTGOING] > %xt%l%-1%
+{17:18:2 pm} - [OUTGOING] > %xt%js%-1%1%0%0%1%
+{17:18:2 pm} - [OUTGOING] > %xt%lp%-1%102|teste|45|6|0|0|0|0|0|0|0|0|0|0|1|1|0%500%0%1440%1581873482%0%4%1%
+{17:18:2 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|266|172|1|1|0%
+{17:18:2 pm} - [OUTGOING] > %xt%jr%-1%300%102|teste|45|6|0|0|0|0|0|0|0|0|266|172|1|1|0%
+{17:18:2 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{17:18:2 pm} - [OUTGOING] > %xt%gps%-1%102%%
+{17:18:2 pm} - [OUTGOING] > %xt%gi%-1%6%
+{17:18:2 pm} - [OUTGOING] > %xt%gb%-1%%
+{17:18:2 pm} - [OUTGOING] > %xt%gn%-1%%
+{17:18:2 pm} - [OUTGOING] > %xt%glr%-1%1337%
+{17:18:2 pm} - [OUTGOING] > %xt%pg%-1%
+{17:18:4 pm} - [OUTGOING] > %xt%sp%-1%102%365%230%
+{17:18:5 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|105|330|1|1|0%
+{17:18:5 pm} - [OUTGOING] > %xt%jr%-1%340%102|teste|45|6|0|0|0|0|0|0|0|0|105|330|1|1|0%
+{17:18:5 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{17:18:8 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|272|215|1|1|0%
+{17:18:8 pm} - [OUTGOING] > %xt%jr%-1%100%102|teste|45|6|0|0|0|0|0|0|0|0|272|215|1|1|0%
+{17:18:8 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{17:18:10 pm} - [OUTGOING] > %xt%sp%-1%102%342%205%
+{17:18:11 pm} - [OUTGOING] > %xt%ap%-1%102|teste|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{17:18:11 pm} - [OUTGOING] > %xt%jr%-1%120%102|teste|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{17:18:11 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{17:18:17 pm} - [OUTGOING] > %xt%sp%-1%102%260%150%
+{17:18:17 pm} - [OUTGOING] > %xt%sp%-1%102%260%150%
+{17:18:19 pm} - [OUTGOING] > %xt%jg%-1%926%
+{13:37:5 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{13:37:5 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{13:37:5 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>eed4f2dc1b45</k></body></msg>
+{13:37:6 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{13:37:6 pm} - [OUTGOING] > %xt%l%-1%%f534fb10c094%%100,1%
+{13:37:9 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{13:37:9 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>963a294687a3</k></body></msg>
+{13:37:10 pm} - [OUTGOING] > %xt%l%-1%
+{13:37:10 pm} - [OUTGOING] > %xt%js%-1%1%0%0%1%
+{13:37:10 pm} - [OUTGOING] > %xt%lp%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|0|0|1|1|0%500%0%1440%1582378630%0%4%1%
+{13:37:10 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|132|129|1|1|0%
+{13:37:10 pm} - [OUTGOING] > %xt%jr%-1%110%103|Testando|45|6|0|0|0|0|0|0|0|0|132|129|1|1|0%
+{13:37:10 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:37:10 pm} - [OUTGOING] > %xt%gps%-1%103%%
+{13:37:10 pm} - [OUTGOING] > %xt%gi%-1%6%
+{13:37:10 pm} - [OUTGOING] > %xt%gb%-1%%
+{13:37:10 pm} - [OUTGOING] > %xt%gn%-1%%
+{13:37:12 pm} - [OUTGOING] > %xt%sp%-1%103%233%322%
+{13:37:14 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|178|250|1|1|0%
+{13:37:14 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|178|250|1|1|0%
+{13:37:14 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:37:16 pm} - [OUTGOING] > %xt%sp%-1%103%342%205%
+{13:37:17 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:37:17 pm} - [OUTGOING] > %xt%jr%-1%120%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:37:17 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:37:29 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|338|183|1|1|0%
+{13:37:29 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|338|183|1|1|0%
+{13:37:29 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:37:32 pm} - [OUTGOING] > %xt%sp%-1%103%342%205%
+{13:37:34 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:37:34 pm} - [OUTGOING] > %xt%jr%-1%120%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:37:34 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:37:35 pm} - [OUTGOING] > %xt%sp%-1%103%533%312%
+{13:37:37 pm} - [OUTGOING] > %xt%sp%-1%103%260%150%
+{13:37:40 pm} - [OUTGOING] > %xt%jg%-1%926%
+{13:48:26 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{13:48:26 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{13:48:26 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>e7cf95215a62</k></body></msg>
+{13:48:27 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{13:48:27 pm} - [OUTGOING] > %xt%l%-1%%f9b5910eb9f2%%100,1%
+{13:48:28 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{13:48:29 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>4a6ef223c42e</k></body></msg>
+{13:48:29 pm} - [OUTGOING] > %xt%l%-1%
+{13:48:29 pm} - [OUTGOING] > %xt%js%-1%1%0%0%1%
+{13:48:29 pm} - [OUTGOING] > %xt%lp%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|0|0|1|1|0%500%0%1440%1582379309%0%4%1%
+{13:48:29 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|340|364|1|1|0%
+{13:48:29 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|340|364|1|1|0%
+{13:48:29 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:48:29 pm} - [OUTGOING] > %xt%gps%-1%103%%
+{13:48:29 pm} - [OUTGOING] > %xt%gi%-1%6%
+{13:48:29 pm} - [OUTGOING] > %xt%gb%-1%%
+{13:48:29 pm} - [OUTGOING] > %xt%gn%-1%%
+{13:48:30 pm} - [OUTGOING] > %xt%pg%-1%
+{13:48:30 pm} - [OUTGOING] > %xt%glr%-1%1337%
+{13:48:30 pm} - [OUTGOING] > %xt%qpa%-1%%
+{13:48:36 pm} - [OUTGOING] > %xt%sp%-1%103%275%225%
+{13:48:37 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{13:48:37 pm} - [OUTGOING] > %xt%jr%-1%110%103|Testando|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{13:48:37 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:48:39 pm} - [OUTGOING] > %xt%sp%-1%103%520%320%
+{13:48:41 pm} - [OUTGOING] > %xt%jg%-1%901%
+{13:49:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:49:55 pm} - [OUTGOING] > %xt%zo%-1%504%0%0%0%0%
+{13:50:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:51:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:52:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:53:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:53:46 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|318|111|1|1|0%
+{13:53:46 pm} - [OUTGOING] > %xt%jr%-1%110%103|Testando|45|6|0|0|0|0|0|0|0|0|318|111|1|1|0%
+{13:53:46 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:53:50 pm} - [OUTGOING] > %xt%gr%-1%
+{13:53:55 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|356|228|1|1|0%
+{13:53:55 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|356|228|1|1|0%
+{13:53:55 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:53:59 pm} - [OUTGOING] > %xt%sp%-1%103%335%200%
+{13:53:59 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:53:59 pm} - [OUTGOING] > %xt%jr%-1%120%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{13:53:59 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:54:2 pm} - [OUTGOING] > %xt%sp%-1%103%438%315%
+{13:54:2 pm} - [OUTGOING] > %xt%sp%-1%103%438%315%
+{13:54:3 pm} - [OUTGOING] > %xt%sp%-1%103%260%150%
+{13:54:5 pm} - [OUTGOING] > %xt%jg%-1%926%
+{13:54:23 pm} - [OUTGOING] > %xt%zo%-1%504%0%0%0%0%
+{13:54:25 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|336|233|1|1|0%
+{13:54:25 pm} - [OUTGOING] > %xt%jr%-1%120%103|Testando|45|6|0|0|0|0|0|0|0|0|336|233|1|1|0%
+{13:54:25 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:54:27 pm} - [OUTGOING] > %xt%sp%-1%103%86%430%
+{13:54:27 pm} - [OUTGOING] > %xt%sp%-1%103%69%430%
+{13:54:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:54:31 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|225|174|1|1|0%
+{13:54:31 pm} - [OUTGOING] > %xt%jr%-1%805%103|Testando|45|6|0|0|0|0|0|0|0|0|225|174|1|1|0%
+{13:54:31 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:54:33 pm} - [OUTGOING] > %xt%sp%-1%103%484%165%
+{13:54:34 pm} - [OUTGOING] > %xt%sp%-1%103%561%276%
+{13:54:36 pm} - [OUTGOING] > %xt%sp%-1%103%635%160%
+{13:54:38 pm} - [OUTGOING] > %xt%jg%-1%916%
+{13:55:27 pm} - [OUTGOING] > %xt%zo%-1%554%0%0%0%0%
+{13:55:28 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|161|391|1|1|0%
+{13:55:28 pm} - [OUTGOING] > %xt%jr%-1%805%103|Testando|45|6|0|0|0|0|0|0|0|0|161|391|1|1|0%
+{13:55:28 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:55:32 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|124|129|1|1|0%
+{13:55:32 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|124|129|1|1|0%
+{13:55:32 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:34 pm} - [OUTGOING] > %xt%sp%-1%103%275%225%
+{13:55:36 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{13:55:36 pm} - [OUTGOING] > %xt%jr%-1%110%103|Testando|45|6|0|0|0|0|0|0|0|0|350|225|1|1|0%
+{13:55:36 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:39 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|335|135|1|1|0%
+{13:55:39 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:39 pm} - [OUTGOING] > %xt%jr%-1%400%103|Testando|45|6|0|0|0|0|0|0|0|0|335|135|1|1|0%
+{13:55:42 pm} - [OUTGOING] > %xt%sp%-1%103%240%200%
+{13:55:45 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|320|310|1|1|0%
+{13:55:45 pm} - [OUTGOING] > %xt%jr%-1%410%103|Testando|45|6|0|0|0|0|0|0|0|0|320|310|1|1|0%
+{13:55:45 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:50 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|175|405|1|1|0%
+{13:55:50 pm} - [OUTGOING] > %xt%jr%-1%411%103|Testando|45|6|0|0|0|0|0|0|0|0|175|405|1|1|0%
+{13:55:50 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:55:54 pm} - [OUTGOING] > %xt%sp%-1%103%353%358%
+{13:55:58 pm} - [OUTGOING] > %xt%sp%-1%103%515%414%
+{13:55:59 pm} - [OUTGOING] > %xt%sp%-1%103%645%280%
+{13:56:9 pm} - [OUTGOING] > %xt%jg%-1%906%
+{13:56:29 pm} - [OUTGOING] > %xt%h%-1%
+{13:57:19 pm} - [OUTGOING] > %xt%zo%-1%619%0%0%0%0%
+{13:57:21 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|284|202|1|1|0%
+{13:57:21 pm} - [OUTGOING] > %xt%jr%-1%411%103|Testando|45|6|0|0|0|0|0|0|0|0|284|202|1|1|0%
+{13:57:21 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{13:57:37 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{13:57:37 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{13:57:37 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>cd4a646a71f8</k></body></msg>
+{13:58:0 pm} - [OUTGOING] > %xt%e%-1%100%
+{14:15:32 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{14:15:32 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:15:32 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>74c304e542e8</k></body></msg>
+{14:15:33 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{14:15:33 pm} - [OUTGOING] > %xt%l%-1%%8408f1974190%%100,1%
+{14:15:36 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:15:36 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>89dd48ef3e41</k></body></msg>
+{14:15:55 pm} - [OUTGOING] > %xt%e%-1%100%
+{14:16:36 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{14:16:36 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:16:36 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>e84ae43f366d</k></body></msg>
+{14:16:36 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{14:16:36 pm} - [OUTGOING] > %xt%l%-1%%d8d2edf8722d%%100,1%
+{14:16:38 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:16:38 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>2df84fa9ab90</k></body></msg>
+{14:16:57 pm} - [OUTGOING] > %xt%e%-1%100%
+{14:19:34 pm} - [OUTGOING] > <cross-domain-policy><allow-access-from domain="*" to-ports="*"/></cross-domain-policy>
+{14:19:34 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:19:34 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>f14d37e8943d</k></body></msg>
+{14:19:34 pm} - [OUTGOING] > %xt%sd%-1%100|Snowy Island|127.0.0.1|6113%
+{14:19:34 pm} - [OUTGOING] > %xt%l%-1%%026d93e7a815%%100,1%
+{14:19:36 pm} - [OUTGOING] > <msg t="sys"><body action="apiOK" r="0"></body></msg>
+{14:19:36 pm} - [OUTGOING] > <msg t="sys"><body action="rndK" r="-1"><k>60063f3328e5</k></body></msg>
+{14:19:37 pm} - [OUTGOING] > %xt%l%-1%
+{14:19:37 pm} - [OUTGOING] > %xt%js%-1%1%0%0%1%
+{14:19:37 pm} - [OUTGOING] > %xt%lp%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|0|0|1|1|0%619%0%1440%1582381177%0%4%1%
+{14:19:37 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|147|121|1|1|0%
+{14:19:37 pm} - [OUTGOING] > %xt%jr%-1%400%103|Testando|45|6|0|0|0|0|0|0|0|0|147|121|1|1|0%
+{14:19:37 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:19:37 pm} - [OUTGOING] > %xt%gps%-1%103%%
+{14:19:37 pm} - [OUTGOING] > %xt%gi%-1%6%
+{14:19:37 pm} - [OUTGOING] > %xt%gb%-1%%
+{14:19:37 pm} - [OUTGOING] > %xt%gn%-1%%
+{14:19:38 pm} - [OUTGOING] > %xt%sp%-1%103%355%201%
+{14:19:38 pm} - [OUTGOING] > %xt%sp%-1%103%355%201%
+{14:19:40 pm} - [OUTGOING] > %xt%sp%-1%103%269%246%
+{14:19:44 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|388|132|1|1|0%
+{14:19:44 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|388|132|1|1|0%
+{14:19:44 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:19:46 pm} - [OUTGOING] > %xt%sp%-1%103%342%205%
+{14:19:47 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{14:19:47 pm} - [OUTGOING] > %xt%jr%-1%120%103|Testando|45|6|0|0|0|0|0|0|0|0|150|280|1|1|0%
+{14:19:47 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:19:54 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|362|241|1|1|0%
+{14:19:54 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|362|241|1|1|0%
+{14:19:54 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:19:57 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|177|242|1|1|0%
+{14:19:57 pm} - [OUTGOING] > %xt%jr%-1%321%103|Testando|45|6|0|0|0|0|0|0|0|0|177|242|1|1|0%
+{14:19:57 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:19:58 pm} - [OUTGOING] > %xt%sp%-1%103%390%300%
+{14:19:58 pm} - [OUTGOING] > %xt%sp%-1%103%390%300%
+{14:19:59 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|200|330|1|1|0%
+{14:19:59 pm} - [OUTGOING] > %xt%jr%-1%320%103|Testando|45|6|0|0|0|0|0|0|0|0|200|330|1|1|0%
+{14:19:59 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:20:1 pm} - [OUTGOING] > %xt%sp%-1%103%412%311%
+{14:20:1 pm} - [OUTGOING] > %xt%sp%-1%103%412%311%
+{14:20:3 pm} - [OUTGOING] > %xt%sp%-1%103%550%320%
+{14:20:6 pm} - [OUTGOING] > %xt%jg%-1%951%
+{14:20:7 pm} - [OUTGOING] > %xt%ai%-1%821%619%
+{14:20:16 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|172|182|1|1|0%
+{14:20:16 pm} - [OUTGOING] > %xt%jr%-1%320%103|Testando|45|6|0|0|0|0|0|0|0|0|172|182|1|1|0%
+{14:20:16 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:20:17 pm} - [OUTGOING] > %xt%sp%-1%103%550%320%
+{14:20:18 pm} - [OUTGOING] > %xt%sp%-1%103%453%294%
+{14:20:18 pm} - [OUTGOING] > %xt%sp%-1%103%453%294%
+{14:20:18 pm} - [OUTGOING] > %xt%sp%-1%103%453%294%
+{14:20:18 pm} - [OUTGOING] > %xt%sp%-1%103%456%297%
+{14:20:18 pm} - [OUTGOING] > %xt%sp%-1%103%479%307%
+{14:20:19 pm} - [OUTGOING] > %xt%sp%-1%103%479%307%
+{14:20:19 pm} - [OUTGOING] > %xt%sp%-1%103%479%307%
+{14:20:19 pm} - [OUTGOING] > %xt%sp%-1%103%498%306%
+{14:20:19 pm} - [OUTGOING] > %xt%sp%-1%103%550%320%
+{14:20:22 pm} - [OUTGOING] > %xt%jg%-1%951%
+{14:20:37 pm} - [OUTGOING] > %xt%h%-1%
+{14:20:39 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|257|208|1|1|0%
+{14:20:39 pm} - [OUTGOING] > %xt%jr%-1%320%103|Testando|45|6|0|0|0|0|0|0|0|0|257|208|1|1|0%
+{14:20:39 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:20:44 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|165|162|1|1|0%
+{14:20:44 pm} - [OUTGOING] > %xt%jr%-1%805%103|Testando|45|6|0|0|0|0|0|0|0|0|165|162|1|1|0%
+{14:20:44 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
+{14:20:48 pm} - [OUTGOING] > %xt%ap%-1%103|Testando|45|6|0|0|0|0|0|0|0|0|314|172|1|1|0%
+{14:20:48 pm} - [OUTGOING] > %xt%jr%-1%100%103|Testando|45|6|0|0|0|0|0|0|0|0|314|172|1|1|0%
+{14:20:48 pm} - [OUTGOING] > %xt%ap%-1%0|Bot|45|1|122|0|0|276|0|0|514|0|100|100|1|1|876%
