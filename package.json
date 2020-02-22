@@ -1,0 +1,20 @@
+{
+	"name": "waddler",
+	"version": "1.4.6",
+	"main": "runGame.js",
+	"description": "An open source in-development Club Penguin emulator, written in Node.js.",
+	"keywords": [
+		"club",
+		"penguin",
+		"cpps",
+		"clubpenguin",
+		"clubpenguinprivateserver"
+	],
+	"dependencies": {
+		"knex": "^0.15.2",
+		"mysql2": "^1.6.1",
+		"keccak": "^1.4.0"
+	},
+	"author": "Zaseth",
+	"license": "MIT"
+}
