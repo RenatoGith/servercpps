@@ -11,7 +11,7 @@
 		"clubpenguinprivateserver"
 	],
 	"dependencies": {
-		"knex": "^0.15.2",
+		"knex": "^2.4.0",
 		"mysql2": "^1.6.1",
 		"keccak": "^1.4.0"
 	},
